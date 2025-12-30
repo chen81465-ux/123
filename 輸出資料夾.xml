@@ -28,9 +28,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-146.490" id="Lensflare01" color="0xffffff" type="4" tilt="41.760" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -66,9 +63,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-290.310" id="Lensflare01" color="0xffffff" type="4" tilt="46.500" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -104,9 +98,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-300.020" id="Lensflare01" color="0xffffff" type="3" tilt="47.420" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -140,9 +131,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-9.820" id="Lensflare01" color="0xffffff" type="3" tilt="66.920" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -173,9 +161,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -214,9 +199,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-149.680" id="Lensflare01" color="0xffffff" type="6" tilt="20.920" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-267.490" id="Lensflare02" color="0xffffff" type="3" tilt="25.050" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -256,9 +238,6 @@
       <lensflare alpha="80.000" pan="-289.930" id="Lensflare01" color="0xffffff" type="6" tilt="43.580" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-253.980" id="Lensflare02" color="0xffffff" type="6" tilt="43.200" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-2.870" id="Lensflare03" color="0xffffff" type="3" tilt="16.090" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -291,9 +270,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-286.330" id="Lensflare01" color="0xffffff" type="6" tilt="43.080" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-4.600" id="Lensflare03" color="0xffffff" type="3" tilt="11.970" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -332,9 +308,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-309.390" id="Lensflare01" color="0xffffff" type="9" tilt="26.950" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-272.660" id="Lensflare02" color="0xffffff" type="1" tilt="20.580" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -366,9 +339,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-310.100" id="Lensflare01" color="0xffffff" type="3" tilt="49.490" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -402,9 +372,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-192.270" id="Lensflare01" color="0xffffff" type="3" tilt="46.910" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -447,9 +414,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -483,9 +447,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -517,9 +478,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-272.660" id="Lensflare01" color="0xffffff" type="4" tilt="6.090" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -563,9 +521,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-249.270" id="Lensflare01" color="0xffffff" type="1" tilt="28.630" blinding="40.000"/>
       <lensflare alpha="80.000" pan="-358.860" id="Lensflare02" color="0xffffff" type="1" tilt="42.850" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -598,9 +553,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-5.090" id="Lensflare01" color="0xffffff" type="1" tilt="78.640" blinding="50.000"/>
       <lensflare alpha="80.000" pan="-179.220" id="Lensflare03" color="0xffffff" type="1" tilt="14.650" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -632,9 +584,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-175.420" id="Lensflare01" color="0xffffff" type="1" tilt="11.550" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -670,9 +619,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-1.750" id="Lensflare01" color="0xffffff" type="1" tilt="43.340" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -704,9 +650,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-189.180" id="Lensflare01" color="0xffffff" type="1" tilt="25.470" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -739,9 +682,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-180.690" id="Lensflare01" color="0xffffff" type="1" tilt="35.320" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -775,9 +715,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-115.940" id="Lensflare01" color="0xffffff" type="1" tilt="33.140" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-244.040" id="Lensflare02" color="0xffffff" type="1" tilt="33.620" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -819,9 +756,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-214.160" id="Lensflare01" color="0xffffff" type="1" tilt="21.720" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-151.260" id="Lensflare02" color="0xffffff" type="1" tilt="20.940" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -854,9 +788,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -890,9 +821,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-154.170" id="Lensflare01" color="0xffffff" type="1" tilt="52.920" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -930,9 +858,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-173.320" id="Lensflare01" color="0xffffff" type="1" tilt="25.060" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -965,9 +890,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-177.010" id="Lensflare01" color="0xffffff" type="1" tilt="13.350" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1000,9 +922,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-199.620" id="Lensflare01" color="0xffffff" type="1" tilt="52.420" blinding="50.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1034,9 +953,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1067,9 +983,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1105,9 +1018,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-349.600" id="Lensflare01" color="0xffffff" type="4" tilt="9.400" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1138,9 +1048,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-270.740" id="Lensflare01" color="0xffffff" type="1" tilt="19.920" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1170,9 +1077,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1215,9 +1119,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-241.470" id="Lensflare01" color="0xffffff" type="1" tilt="46.470" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1252,9 +1153,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-199.380" id="Lensflare01" color="0xffffff" type="1" tilt="25.870" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1286,9 +1184,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-197.050" id="Lensflare01" color="0xffffff" type="1" tilt="11.980" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1322,9 +1217,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-241.840" id="Lensflare01" color="0xffffff" type="6" tilt="36.270" blinding="40.000"/>
       <lensflare alpha="80.000" pan="-118.400" id="Lensflare02" color="0xffffff" type="1" tilt="32.310" blinding="40.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1357,9 +1249,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-208.760" id="Lensflare01" color="0xffffff" type="6" tilt="17.470" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-163.980" id="Lensflare02" color="0xffffff" type="1" tilt="16.090" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1391,9 +1280,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-167.590" id="Lensflare01" color="0xffffff" type="1" tilt="13.350" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1424,9 +1310,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1459,9 +1342,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-182.900" id="Lensflare01" color="0xffffff" type="1" tilt="66.200" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1493,9 +1373,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-180.610" id="Lensflare01" color="0xffffff" type="1" tilt="28.900" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1528,9 +1405,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-208.110" id="Lensflare01" color="0xffffff" type="1" tilt="26.810" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-145.600" id="Lensflare02" color="0xffffff" type="1" tilt="9.490" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1561,9 +1435,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-25.540" id="Lensflare01" color="0xffffff" type="6" tilt="41.100" blinding="20.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1599,9 +1470,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-233.900" id="Lensflare01" color="0xffffff" type="1" tilt="39.010" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1636,9 +1504,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-200.710" id="Lensflare01" color="0xffffff" type="1" tilt="21.690" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1670,9 +1535,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-201.840" id="Lensflare01" color="0xffffff" type="1" tilt="10.200" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1713,9 +1575,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-113.750" id="Lensflare01" color="0xffffff" type="1" tilt="33.920" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-239.750" id="Lensflare02" color="0xffffff" type="1" tilt="33.960" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1747,9 +1606,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-166.790" id="Lensflare01" color="0xffffff" type="1" tilt="15.300" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1781,9 +1637,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-176.650" id="Lensflare01" color="0xffffff" type="1" tilt="9.590" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1819,9 +1672,6 @@
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
       <lensflare alpha="80.000" pan="-116.570" id="Lensflare01" color="0xffffff" type="1" tilt="41.840" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1858,9 +1708,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-132.850" id="Lensflare01" color="0xffffff" type="1" tilt="15.170" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-182.850" id="Lensflare02" color="0xffffff" type="1" tilt="40.780" blinding="30.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1893,9 +1740,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-147.180" id="Lensflare01" color="0xffffff" type="1" tilt="9.740" blinding="30.000"/>
       <lensflare alpha="80.000" pan="-210.000" id="Lensflare02" color="0xffffff" type="1" tilt="26.650" blinding="20.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1930,9 +1774,6 @@
       <sound id="_background" pansize="10.000" nodechangekeep="1" tilt="-1.000" startmutedmobile="0" mode="0" loop="-1" pan="-1.000" ambientlevel="0.000" level="0.300" field="90.000" tiltsize="10.000">
         <source url="media/11 - Dong Lin Guo youtube.mp3" mono="0"/>
       </sound>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
@@ -1971,9 +1812,6 @@
       </sound>
       <lensflare alpha="80.000" pan="-145.790" id="Lensflare01" color="0xffffff" type="1" tilt="10.110" blinding="20.000"/>
       <lensflare alpha="80.000" pan="-202.560" id="Lensflare02" color="0xffffff" type="1" tilt="39.660" blinding="20.000"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_right.mp3" level="0.200" id="right" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_false.mp3" level="0.200" id="false" keep="1"/>
-      <sound mode="7" loop="-1" url="media/skin_snd_music.mp3" level="0.300" id="music" keep="1"/>
     </media>
     <transition softedge="0" enabled="1" delay="none" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" zoomout="0" zoomafteroutfov="40" blendtime="1"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
