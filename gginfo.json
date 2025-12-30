@@ -2,7 +2,10 @@
 	"version": 1,
 	"type": "panorama",
 	"external": {
-		"js": [],
+		"js": [
+			"https://www.youtube.com/iframe_api",
+			"https://player.vimeo.com/api/player.js"
+		],
 		"css": []
 	},
 	"skin": {
@@ -12,7 +15,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2025-12-30T16:24:20.779Z",
+	"creationdate": "2025-12-30T16:25:50.826Z",
 	"configuration": "輸出資料夾.xml",
 	"preview": {
 		"img": "preview.jpg",
